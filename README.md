@@ -1,7 +1,7 @@
-# Demo Projct 
+# Demo Projct for Rock ,paper scissor game 
 
-Some description!.
+It's a basic game made using HTML,CSS,JAVASCRIPT
 
-## sub header
 
-watch the tutorial on youtube
+
+
